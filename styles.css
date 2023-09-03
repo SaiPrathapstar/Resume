@@ -66,8 +66,17 @@ p{
     text-align: left;
     color: #40514E;
 }
+
 .coding-image{
     /* width: 50%; */
+    float: left;
+    margin-right: 30px;
+}
+.data-engineer-image{
+    float: right;
+    margin-left: 30px;
+}
+.android-image{
     float: left;
     margin-right: 30px;
 }
